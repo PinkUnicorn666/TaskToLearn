@@ -1,0 +1,16 @@
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\NoPowFunction.exe
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\NoPowFunction.deps.json
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\NoPowFunction.runtimeconfig.json
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\NoPowFunction.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\NoPowFunction.dll
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\ref\NoPowFunction.dll
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\bin\Debug\net5.0\NoPowFunction.pdb
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.dll
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\ref\NoPowFunction.dll
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.pdb
+C:\Users\Anna\Desktop\Tasks\NoPowFunction\obj\Debug\net5.0\NoPowFunction.genruntimeconfig.cache

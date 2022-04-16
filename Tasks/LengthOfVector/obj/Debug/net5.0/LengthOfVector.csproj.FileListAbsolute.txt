@@ -1,0 +1,16 @@
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\LengthOfVector.exe
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\LengthOfVector.deps.json
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\LengthOfVector.runtimeconfig.json
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\LengthOfVector.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\LengthOfVector.dll
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\ref\LengthOfVector.dll
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\bin\Debug\net5.0\LengthOfVector.pdb
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.dll
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\ref\LengthOfVector.dll
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.pdb
+C:\Users\Anna\Desktop\Tasks\LengthOfVector\obj\Debug\net5.0\LengthOfVector.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\DayOfWeek.exe
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\DayOfWeek.deps.json
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.json
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\DayOfWeek.dll
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\ref\DayOfWeek.dll
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\bin\Debug\net5.0\DayOfWeek.pdb
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.dll
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\ref\DayOfWeek.dll
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.pdb
+C:\Users\Anna\Desktop\Tasks\DayOfWeek\obj\Debug\net5.0\DayOfWeek.genruntimeconfig.cache
